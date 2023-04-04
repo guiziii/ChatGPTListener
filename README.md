@@ -12,9 +12,9 @@
 - Os
 
 
-## Demonstração
+## 2) Demonstração
 
-### 1) Exemplo de execução GPT
+### 2.1) Exemplo de execução GPT
 
 [![N|Solid](https://i.imgur.com/W3Ssygp.jpg)](https://i.imgur.com/W3Ssygp.jpg)
 
