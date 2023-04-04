@@ -18,7 +18,7 @@
 
 [![N|Solid](https://i.imgur.com/W3Ssygp.jpg)](https://i.imgur.com/W3Ssygp.jpg)
 
-## Funcionalidades
+## 3) Funcionalidades
 
 1) "Ronaldo reiniciar computador":
   - Reinicia o computador do usuário.
