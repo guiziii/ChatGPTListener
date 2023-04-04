@@ -55,3 +55,8 @@
   
 12) "Desligar alarme":
   - Desliga o alarme do computador.
+
+
+## Possíveis problemas de instalação 
+
+1) https://stackoverflow.com/questions/73268630/error-could-not-build-wheels-for-pyaudio-which-is-required-to-install-pyprojec
