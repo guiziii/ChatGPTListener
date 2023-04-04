@@ -20,38 +20,38 @@
 
 ## Funcionalidades
 
-1) 'ronaldo reiniciar computador':
+1) "Ronaldo reiniciar computador":
   - Reinicia o computador do usuário.
 
-2) 'ronaldo pode falar':
+2) "Ronaldo pode falar":
   - Libera o ronaldo a falar pelo alto falante.
   
-3) 'ronaldo não falar':
+3) "Ronaldo não falar":
   - Bloqueia o ronaldo de falar pelo alto falante.
   
-4) 'volume médio':
+4) "Volume médio":
   - Diminui pela metade o volume do alto falante.
 
-5) 'abra o controle':
+5) "Abra o controle":
   - Abre o painel de controle do computaodor.
 
-6) 'abra o google':
+6) "Abra o Google":
   - Abre o site Google.
   
-7) 'documentação do react':
-  - Abre o site da documentação do react.
+7) "Documentação do React":
+  - Abre o site da documentação do React.
   
-8) 'abra o youtube':
-  - Abre o site Google.
+8) "Abra o Youtube":
+  - Abre o site Youtube.
   
-9) 'documentação material':
+9) "Documentação material":
   - Abre o site do Material UI.
 
-10) - 'valor do dólar':
-  - Abre o site do Google com pesquisa no valor do dolar atual.
+10) "Valor do dólar":
+  - Abre o site do Google com pesquisa no valor do dólar atual.
   
-11) - 'abra a azure':
+11) "Abra a Azure":
   - Abre o site da Azure.
   
-12) - 'desligar alarme':
+12) "Desligar alarme":
   - Desliga o alarme do computador.
