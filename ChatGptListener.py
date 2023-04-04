@@ -6,7 +6,7 @@ import os
 
 url = 'https://www.google.com'
 urlY = 'https://www.youtube.com'
-urlDevAzure = 'https://dev.azure.com/ijobtech/ijob'
+urlDevAzure = 'https://dev.azure.com/'
 urlDocReact = 'https://react.dev/'
 urldolar='https://www.google.com/search?q=dolar'
 urlMui = 'https://mui.com/material-ui/getting-started/overview/'
